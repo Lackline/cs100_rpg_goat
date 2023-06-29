@@ -1,0 +1,26 @@
+----------------
+Wow, you made it out of the maze. What a challenge! Now, you are walking home to check if everyone there is well and if there is no danger. Your village is near the end of the woods. You need to keep going straight. Ohh no, there is a muddy swamp on your path. You don’t want to stick to it. You look around and need to make a decision on how to avoid stepping into that swamp.
+1 Walk around it
+2 Climb on a tree and jump from one to another
+3 Just walk through it
+4 Throw stones into the swamp and step on them
+*selection
+4 
+*endOfSelection
+*Item
+6
+*endOfItem
+*choice1
+The swamp isn't that big and you just walk around it with no problems. Nice choice! While you were walking, you found a stick that may help you later. You see another goat and you follow him and easily go back to your village. 
+*endOfChoice1
+*choice2
+You are not a monkey, you are a goat. You somehow climbed a tree but when you jumped you just fell into the swamp. Fortunately, your goat fellow came and helped you: what happened? I thought it was common sense that goats couldn't swim in swamps. You followed that kind goat and jumped towards your village. (I guess he still thinks he’s a monkey)
+*endOfChoice2
+*choice3
+As it was mentioned before, it is a very muddy swamp so you are stuck and there is no one to help you out.
+*useDeathMenu
+*endOfChoice3
+*choice4
+You couldn't handle stones cause you are a goat with hooves instead of hands. So when you pick it up it falls on you. Your back is crushed by stones and you die in pain.
+*useDeathMenu
+*endOfChoice4

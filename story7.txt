@@ -1,0 +1,27 @@
+----------------
+*useSetCheckpoint
+You come back to your home which is in the small village called Happy Goatland. The villagers are desperate for your help, as they have been plagued by a series of attacks by a group of goblin-looking coyotes who have been stealing their nannies and babies. As you explore the village, you meet an old human-looking goat who tells you about a powerful artifact known as the “The Gun.” Legend believes the gun can vanquish any evil and restore peace to the land. With a new quest in mind, you set out to find “The Gun”. Your journey takes you through dense forests, treacherous mountains, and dark caves. Along the way, you encounter fierce beasts, but after you have a chat with them, you reach the ancient temple where “The Gun” is hidden. You enter the temple and see it, but you are immediately confronted by a group of undead minions skeleton yelling, “BEE DO BEE DO BEE DO.” It Seems like you will have to do something about them before you can get what you want. There are few objects around you; what would you choose to fight them?
+1 Flamethrower
+2 Paper gun
+3 Banana
+4 Hay
+*selection
+4
+*endOfSelection
+*Item
+7
+*endOfItem
+*choice1
+It is a great idea. You start burning them, but you run out of gas after you get through half of them. Unfortunately, you had to run away, but you noticed that one minion was following you. It’s a friendly one who saw a villain in you.
+*endOfChoice1
+*choice2
+Unfortunately, a paper gun won’t do anything to them. You die in pain.
+*useDeathMenu
+*endOfChoice2
+*choice3
+Yeah you got this! You throw a banana at them and they start fighting for it until they destroy each other while you are eating hay. They may be undead skeletons but they are still minions who love bananas a little too much.  With the gun in hand, you return to Happy Goatland, where the villagers greet you as a hero. You use the sword to vanquish the coyotes army and restore peace to the land.
+*endOfChoice3
+*choice4
+Hay? You serious? You are so dead.
+*useDeathMenu
+*endOfChoice4

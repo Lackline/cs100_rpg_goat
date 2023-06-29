@@ -1,0 +1,22 @@
+----------------
+*useSetCheckpoint
+You set out along the path, taking in the scenery as you go. As you walk, you hear a commotion up ahead. You see a group of hunters chasing after a sheep. The sheep screeches in terror as he tries to outrun the pursuers. You have a choice to make:
+1 Dash at the hunters and try to stop them
+2 Do nothing 
+3 Distract the hunters by getting their attention
+*selection
+3
+*endOfSelection
+*Item
+9
+*endOfItem
+*choice1
+You decide to dash at the hunters. Your sudden appearance catches the hunters off guard as they run away. The sheep is grateful for your heroism and decides to give you her number. You continue on your journey.
+*endOfChoice1
+*choice2
+You decide to do nothing and watch from a distance as the hunters catch up to the sheep and capture her. You feel a hint of guilt but you convince yourself that it wasn’t your problem. You continue on your journey. 
+*endOfChoice2
+*choice3
+You decide to distract the hunters by getting their attention. The hunters turn around and focus their sights on you. The sheep gets away as you get trampled by the hunters. As you take your last dying breath, you see the sheep laugh as she runs away. 
+*useDeathMenu
+*endOfChoice3

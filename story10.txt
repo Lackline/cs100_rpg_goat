@@ -1,0 +1,50 @@
+----------------
+In the pure darkness, you can not see, you can not feel anything. You marched forward carefully.
+“Pi, pi”
+ It sounds like a mouse. 
+“Pi, pi, pi”
+The sounds get a bit closer, you started to guard a bit. 
+“Pi, pi, PIPIPIPIPIPIPPIPIPIP”
+The sounds of the mice echo throughout the tunnel, from a small squeaking but now it sounds like a herd of dreadful animals. But then, what comes by, it's just a small, white, and maybe a bit cute mouse. 
+
+“Hi there! Welcome!” the mouse said with a friendly voice. 
+“Oh hi! Do you know 
+“TODAY IS THE DAY OF YOUR DEATH?”
+	“!!!!!”
+
+Suddenly, the mouse transformed into a massive, menacing creature that towered over you. It had the power to control time itself and could unleash devastating attacks with a flick of its wrist.
+
+You took a deep breath and steadied yourself, knowing that this was the ultimate test of your skills and strength. You charged towards the creature, brandishing your weapon, and began the epic battle.
+The creature was a formidable opponent, and its attacks were relentless. You dodged and weaved, striking at the creature whenever you saw an opening. The battle raged on, and you began to feel the toll it was taking on your body.
+
+How shall you act now?
+1 Runaway
+2 Talk
+3 Calm down
+*selection
+3
+*endOfSelection
+*Item
+*endOfItem
+*choice1
+You selected to run away.
+Well. There’s no turning back at this point HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
+
+*useDeathMenu
+*endOfChoice1
+*choice2
+You selected to talk.
+“Wait, creature! You know we could
+…
+(Villain does not talk in this game)
+*useDeathMenu
+*endOfChoice2
+*choice3
+You selected to calm down.
+It is not a good choice you know, but you know there is no way you could defeat the boss on your own.
+
+“Well. There’s no turning back at this point HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA…………”
+
+You close your eyes, ready for death to come... but it doesn't. "Nice dodge, dummy, but now take this!" the creature says, followed by another hit. However, he missed again. You suddenly realize that its weakness is the eyes. The creature stayed inside the cave for so long that its eyes degenerated. When you realize this, you take a deep breath, sprint towards him, and use your sword to strike the boss's eyes.
+
+*endOfChoice3

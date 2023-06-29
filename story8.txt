@@ -1,0 +1,27 @@
+----------------
+*useSetCheckpoint
+After your triumphant victory over the coyotes' army, you hear rumors of other powerful artifacts. The artifacts are said to grant immense magical abilities to whoever possesses them, but their whereabouts and actual power are unknown. You set out again to find a temple, this time through vast deserts and misty swamps, facing new dangers and challenges along the way. As you travel, you meet a group of robust cows who offer to help you in your journey. Together, you uncover clues that lead you to an ancient temple in the heart of a dense jungle. As you and your cows' allies explore the ancient temple in the dense jungle, you come across a room filled with various magical artifacts, each with a unique power. However, the room is locked, and you must solve a puzzle to gain access. You notice that there are four statues in the corners of the room, each holding a gemstone that matches one of the smaller crystals on the pedestal. The statues are facing inward, toward the center of the room. You explore your surrounding and notice a few more clues. Which one would open the door?
+1 Pick up the key that is under the mat
+2 Rotate statues
+3 Use a bomb to blow up the door
+4 Try to squeeze under the door
+*selection
+4 
+*endOfSelection
+*Item
+8
+*endOfItem
+*choice1
+The key actually works and it unlocked the door! The pedestal lights up, and the door to the artifact room opens. You and your allies enter the room and are ready to take all of the artifacts. You pick one called Orb of Wheat since it looks tasty. Suddenly, all of the other artifacts disappeared. Unfortunately, you could pick only one. You leave the room ready to use orb’s magical abilities to bring peace to the land.
+*endOfChoice1
+*choice2
+Ohhhh noo! It seemed like a good idea but you locked the temple from the inside. You run out of oxygen and died with cows.
+*useDeathMenu
+*endOfChoice2
+*choice3
+It turned out the bomb was way too big and killed all the cows. You become sad and die due to depression that you killed them.
+*useDeathMenu
+*endOfChoice3
+*choice4
+You are way too big for this. Obviously got stuck but cows helped you out. You got desperate and went back home without knowing anything about those artifacts.
+*endOfChoice4

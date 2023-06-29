@@ -1,0 +1,38 @@
+----------------
+As the sun began to rise, a small goat slowly stirred from his slumber. Stretching his legs and shaking his head, he yawned and blinked his eyes open. Suddenly, the goat remembered that he had an important decision to make today. He needed to choose his personality - a trait that would define him for the rest of his life.
+The brave option sounded appealing - he could be a hero, fighting off predators and protecting his herd. But the thought of danger also made him nervous.
+Composed sounded like a good choice too - he could be calm and collected in any situation. But would that make him boring?
+Lazy sounded nice - he could spend his days lounging in the sun, not a care in the world. But would he regret wasting his life away?
+Sexy made him blush a little - he could be charming and attractive, winning the hearts of all the lady goats. But would he be shallow and vain?
+Wasteful sounded like a terrible option - he could squander resources and never think about the future. But would he be selfish and greedy?
+What option shall you choose?
+1 Brave
+2 Composed
+3 Lazy
+4 Sexy
+5 Wasteful
+*selection
+5
+*endOfSelection
+*Item
+1
+2
+3
+4
+5
+*endOfItem
+*choice1
+You have selected brave. The goats from above will now hand you a sword as you set off on your journey.
+*endOfChoice1
+*choice2
+You have selected composed. The goats from above will now hand you a book as you set off on your journey.
+*endOfChoice2
+*choice3
+You have selected lazy. The goats from above will now hand you a pillow as you set off on your journey.
+*endOfChoice3
+*choice4
+You have selected sexy. The goats from above will now hand you a bathing suit as you set off on your journey.
+*endOfChoice4
+*choice5
+You have selected wasteful. The goats from above will now hand you a garbage bag as you set off on your journey.
+*endOfChoice5

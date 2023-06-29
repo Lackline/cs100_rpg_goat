@@ -1,0 +1,26 @@
+----------------
+*useSetCheckpoint
+As you keep walking forward thinking about the situation that just occurred, you stumble upon an old man sitting on the side of the road who seems to be meditating. You decide to interrupt him by poking him with your horns. “You are the prophecy. Will you stay a regular boring goat, or will you become an actual GOAT?”, the old man says to you. It’s a hard decision to make that will shape your future forever. What will you do?
+1 Become a GOAT
+2 Tell the old man he is delusional
+3 Forge your own path
+4 Knock out the old man
+*selection
+4
+*endOfSelection
+*Item
+*endOfItem
+*choice1
+“Good choice”, the old man says. “Keep walking forward and you will run into the woods where you will obtain knowledge and wisdom that only GOATS can have.” You decide to listen to this man. 
+*endOfChoice1
+*choice2
+You call him delusional. It turns out, he is a mage that can destroy the ENTIRE WORLD!! “You have made a very bad decision”, as he chuckles. He sneezes at you, turning you and everything in a 5 mile radius into dust. 
+*useDeathMenu
+*endOfChoice2
+*choice3
+“Very well”, the old man says. “Do what you will and become a goat that you can be proud of.” You suddenly feel more determined to make something out of your life, and you move forward to the woods you see in front of you.
+*endOfChoice3
+*choice4
+You try to knock out the old man by swinging your hooves at him. As they make contact, all of your limbs shatter into pieces. As you fall to the ground, you notice the old man smiling at your soon-to-be death.
+*useDeathMenu
+*endOfChoice4

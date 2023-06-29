@@ -1,0 +1,26 @@
+----------------
+After a long and treacherous journey up the hill, you finally reached the door that had been spoken of in legends. It was the door that would grant you everything you ever wanted, the door that would end all your struggles and make you the ultimate hero. You could feel the excitement building up inside you as you took a step closer to the door.
+But as soon as you touched the door, you felt a strange energy course through your body. The world around you seemed to waver, and you heard a voice in your head.
+
+"This is all an illusion. Choose wisely, my hero."
+
+You stopped and looked around, trying to make sense of what was happening. The wind was picking up, and the air was thick with an ominous energy.
+You wondered, should I move forward? You had come so far, and the thought of giving up now was unbearable. But at the same time, the mysterious voice and the strange energy made you hesitant.
+You took a deep breath and closed your eyes, trying to clear your mind. You thought about everything that had led you to this moment, all the battles you had fought, all the sacrifices you had made. You thought about the people you loved, and the people you had lost.
+
+After a moment of reflection, you opened your eyes and made your decision…
+1 You decided to move forward
+2 You decided to go back home
+*selection
+2
+*endOfSelection
+*Item
+10
+*endOfItem
+*choice1
+You decided to move forward. 
+“There's no turning back at this point anyway,” you said, then you slowly walk and push the door open, facing pitch darkness and unknown in front of you….
+*endOfChoice1
+*choice2
+You decided to go back home.
+*endOfChoice2
